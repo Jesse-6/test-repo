@@ -1,1 +1,2 @@
 [1;32mThis is a test repository![0m
+From 'test-0' branch!
